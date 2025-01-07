@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @1eeGit
-- 👀 I’m interested in game development and every that is fun...
-- 🌱 I’m currently learning computer science...
-- 💞️ I’m looking to collaborate on ...
-- 📫 Leave a message if you want to reach out...
+- 🌱 I’m currently learning computer science
+- 📫 Leave a message if you want to reach out
 - 😄 Pronouns: she/ her
-- ⚡ Fun fact: This fact is fun!
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=1eeGit&color=green)
 
